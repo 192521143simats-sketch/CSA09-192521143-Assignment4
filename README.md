@@ -5,8 +5,6 @@
 **Course** Programming in Java (CSA09), CO4
 **Runtime used** Oracle JDK 21.0.12.1 on Windows
 
-[Word report](Assignment%204%20Report.docx) · [PDF report](Assignment%204%20Report.pdf)
-
 Run each command from the named task folder. Use a graphical desktop for all six tasks. Task 6 also requires a running MySQL server.
 
 | Folder | Compile | Run | Result |
